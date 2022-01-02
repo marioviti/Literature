@@ -1,1 +1,2 @@
 https://pubmed.ncbi.nlm.nih.gov/34892073/
+https://github.com/marioviti/Literature/blob/main/Improved_Centerline_Extraction_in_Fully_Automated_Coronary_Ostium_Localization_and_Centerline_Extraction_Framework_using_Deep_Learning.pdf
