@@ -1,6 +1,16 @@
 # Coronary vessel segmentation using multiresolution and multiscale deep learning
 
-https://www.sciencedirect.com/science/article/pii/S2352914821000927#fig5
+# MARKS
+
+* WRITING 2/5 poor english
+* METHOD 4/5 simple and intuitive
+* VALIDATION 4/5 extensive validation with 20 sota methods, scarsity of test data compensed by cross validation.
+* REVIEW: Impressive results for such a simple method, bad graphs, bad english and unprecise/unspecific technical considerations.
+
+
+# Links
+* https://github.com/marioviti/Literature/blob/main/1-s2.0-S2352914821000927-main.pdf
+* https://www.sciencedirect.com/science/article/pii/S2352914821000927#fig5
 
 ## Abstract
 
