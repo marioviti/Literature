@@ -13,4 +13,7 @@ A n-dim topological manifold M has a countable base locally homeomorphic to Rn (
 phi: chart or coordinate system.
 a set of chart phia with domanis Ua is called an atlas of M if union of all Ua = M.
 
+Hops intersecting charts can use phis to travels from one to another. 
+depending on the differentiability of these hop functions the manifold is more or less smooth.
+
 [paper](https://github.com/marioviti/Literature/blob/main/topoprese.pdf)
